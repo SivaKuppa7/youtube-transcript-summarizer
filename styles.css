@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+    font-family: sans-serif;
+    color: #f5f6f7;
+    width: auto;
+    height: auto;
+    font-size: 19.5px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 9.4%;
+    padding-bottom: 0%;
+}
+h1 {
+    display: inline-table;
+    text-align: center;
+    text-decoration: underline; 
+    text-decoration-color: #f5f6f7;
+}
+fieldset {
+    border-style: inset ;
+    border-color: #f5f6f7;
+    padding-left: 3.5%;
+    padding-top: 2.3%;
+    padding-bottom: 2.3%;
+    padding-left: 2.3%;
+    
+}
+label {
+    display: block;
+}
+input {
+
+    border: none;
+    padding: 2.1px;
+    color: black;
+    text-decoration-color: black;
+}
+.seperate {
+    width: 80%;
+    background: unset;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 600px;
+}
+button {
+    
+    text-align: center;
+    border-color: #f5f6f7;
+    color: black;
+}
+.pink {
+    align-content: center;
+    padding-left: 230px;
+    padding-right: 200px;
+}
